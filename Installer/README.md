@@ -4,4 +4,4 @@ Every version of Techkit has a unique password to access.
 Here is a complete list of passwords.
 
 ## Passwords
-**1.1 :a3fG28v7**
+**1.1 : a3fG28v7**
